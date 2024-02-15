@@ -1,0 +1,1 @@
+Classes: Cinema, Hall and Screening. Holdinginformation about movies and hall names, also which movie where is projected.

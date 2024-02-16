@@ -1,0 +1,2 @@
+Create base class Shape with a protected atribute color and a public method draw(). derive two classes from it: Circle and Rectangle.
+Override the draw() method to print the shapes`s color and what shape`s are the deried classes

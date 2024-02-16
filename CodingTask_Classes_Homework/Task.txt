@@ -1,0 +1,2 @@
+class designd and object: design a class named book with private attributes for title(string), author(string) and pages(int). 
+Include a constructor to initializa these attributes and a public method display() to print the books details.
